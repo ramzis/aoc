@@ -1,5 +1,4 @@
-package aoc;
-
+package d2;
 import java.util.Arrays;
 
 public class Day2 {
