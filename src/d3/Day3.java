@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Day3 {
 
-	public static void main(String[] args) throws IOException {
+	public static void main() throws IOException {
 		File dir = new File(".");
 		File fin = new File(dir.getCanonicalPath() + File.separator + "src" + File.separator + "d3" + File.separator + "input.txt");
 		readFile1(fin);
